@@ -1,6 +1,6 @@
 # Analyse-de-donnees
 #Names:
 Ghita KHALED
-hiba MOUSTAOUDI
+Hiba MOUSTAOUDI
 Wissal EL FAKIR
 Oumaima AIT RAMI
